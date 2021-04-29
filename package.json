@@ -1,0 +1,22 @@
+{
+  "name": "scrapping-puppeteer",
+  "version": "1.0.0",
+  "description": "PUPPETEER est une librairie nodeJS qui permet de contôler un navigateur chrome\r Developpée directement par l'équipe chrome dev tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2Thor/Scrapping-Puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2Thor/Scrapping-Puppeteer/issues"
+  },
+  "homepage": "https://github.com/2Thor/Scrapping-Puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}

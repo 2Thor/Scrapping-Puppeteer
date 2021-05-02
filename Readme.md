@@ -2,7 +2,7 @@
 
 ## Definition 
 Le web scraping  permet d'extraire des données depuis un site web via un programme / script.
-En terme de légalité, d'après la CNIL : Les données, malgrès qu'elles soient publiques, elles ne sont pas réutilisables et ne peuvent pas être réexploitées à l'insu de la personne concernée.
+En terme de légalité, d'après la CNIL : Les données, malgrès qu'elles soient publiques, restent des données personnelles. Elles ne sont donc pas réutilisables et ne peuvent pas être réexploitées à l'insu de la personne concernée.
 
 ## Choix technique
 PUPPETEER est une librairie nodeJS qui permet de contôler un navigateur chrome

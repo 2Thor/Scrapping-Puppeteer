@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/2Thor/Scrapping-Puppeteer#readme",
   "dependencies": {
+    "json2csv": "^5.0.6",
+    "numeral": "^2.0.6",
     "puppeteer": "^9.0.0"
   }
 }
